@@ -1,0 +1,18 @@
+# User Data & Secret Vault files (DO NOT COMMIT)
+data/vault.json
+data/vault.json.bak
+data/*.json
+
+# Logs & Temporary files
+data/logs/
+data/logs/*.log
+*.log
+
+# Scratch and temporary scripts
+scratch/
+
+# OS / Editor specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
