@@ -1,3 +1,9 @@
+# PowerShellによる実装テスト
+
+PowerShellによるパスワード管理アプリケーションのテストです。PowerShellのGUI(WPF(XAML))による実装テストを行っているリポジトリです。 
+
+---
+
 # SimplePASS - PowerShell パスワード管理ツール
 
 Windows環境で動作する、ローカル完結型かつ高セキュリティなパスワード管理GUIアプリケーションです。
